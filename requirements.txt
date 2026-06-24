@@ -1,7 +1,8 @@
-Flask
-sklearn
-pandas
-numpy
-matplotlib
-gunicorn
 
+
+Flask==2.0.1
+numpy
+pandas
+scikit-learn
+gunicorn
+matplotlib
